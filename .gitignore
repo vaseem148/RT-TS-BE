@@ -1,0 +1,7 @@
+node_modules/
+.env
+.mongo-data/
+uploads/*
+!uploads/.gitkeep
+*.log
+.DS_Store
